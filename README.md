@@ -1,2 +1,2 @@
 # GENRATIVE-AI
-A project showcasing Generative AI concepts with examples of text, image, and code generation. Includes prompt engineering, model interaction demos, and practical tools to help users explore, understand, and build with modern GenAI technologies.
+This project explains Generative AI concepts using Python with sample code for creating text outputs and simple AI interactions. It also includes text-summarization programs that apply NLP techniques to reduce long content into short, meaningful summaries for practical applications.
